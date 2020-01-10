@@ -69,3 +69,19 @@
 [MITRE | ATT&CK](https://attack.mitre.org/)
 
 [红队专家工具包](https://github.com/infosecn1nja/Red-Teaming-Toolkit)
+
+[红队测试从0到1 - PART 1](https://xz.aliyun.com/t/2742)
+
+[红队测试从0到1 - PART 2](https://xz.aliyun.com/t/2764)
+
+[渗透利器Cobalt Strike - 第1篇 功能及使用](https://xz.aliyun.com/t/3975)
+
+[渗透利器Cobalt Strike - 第2篇 APT级的全面免杀与企业纵深防御体系的对抗](https://xz.aliyun.com/t/4191)
+
+[红队基础建设:隐藏你的C2 server](https://xz.aliyun.com/t/4509)
+
+[【译】一套可用于强化红队基础设施的补充资源](https://xz.aliyun.com/t/150)
+
+[一次红队之旅](https://xz.aliyun.com/t/2389)
+
+[要想加入红队，需要做好哪些准备？](https://xz.aliyun.com/t/4952)
