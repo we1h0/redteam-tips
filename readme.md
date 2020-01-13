@@ -85,3 +85,7 @@
 [一次红队之旅](https://xz.aliyun.com/t/2389)
 
 [要想加入红队，需要做好哪些准备？](https://xz.aliyun.com/t/4952)
+
+[关于后渗透当中Windows系统自带签名文件的白利用](https://lolbas-project.github.io/)
+
+后期计划重新细分下相关资料标签
