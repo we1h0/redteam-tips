@@ -26,8 +26,6 @@
 
 [仿真靶场搭建：个人版PENTESTIT](https://www.freebuf.com/sectool/195632.html)
 
-[红队人员作战手册](https://github.com/klionsec/RedTeamer)
-
 [Exchange Privilege Elevation](https://evi1cg.me/archives/Exchange_Privilege_Elevation.html)
 
 [三层网络靶场搭建&MSF内网渗透](https://www.anquanke.com/post/id/170649)
@@ -91,5 +89,7 @@
 [关于后渗透当中Windows系统自带签名文件的白利用](https://lolbas-project.github.io/)
 
 [ATT&CK手册(修改版).pdf](https://github.com/Dm2333/ATTCK-PenTester-Book)
+
+[红队人员作战手册](https://github.com/klionsec/RedTeamer)
 
 后期计划重新细分下相关资料标签
