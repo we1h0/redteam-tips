@@ -26,6 +26,8 @@
 
 [仿真靶场搭建：个人版PENTESTIT](https://www.freebuf.com/sectool/195632.html)
 
+[红队人员作战手册](https://github.com/klionsec/RedTeamer)
+
 [Exchange Privilege Elevation](https://evi1cg.me/archives/Exchange_Privilege_Elevation.html)
 
 [三层网络靶场搭建&MSF内网渗透](https://www.anquanke.com/post/id/170649)
