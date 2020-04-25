@@ -92,4 +92,6 @@
 
 [红队人员作战手册](https://github.com/klionsec/RedTeamer)
 
+[云上攻防：RED TEAMING FOR CLOUD](http://avfisher.win/archives/1175)
+
 后期计划重新细分下相关资料标签
