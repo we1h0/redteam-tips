@@ -101,4 +101,8 @@
 
 [云上攻防：RED TEAMING FOR CLOUD](http://avfisher.win/archives/1175)
 
+[云渗透思路](https://www.moonsec.com/archives/1098)
+
+[2020攻防演练弹药库-您有主机上线请注意](https://blog.riskivy.com/2020%E6%94%BB%E9%98%B2%E6%BC%94%E7%BB%83%E5%BC%B9%E8%8D%AF%E5%BA%93-%E6%82%A8%E6%9C%89%E4%B8%BB%E6%9C%BA%E4%B8%8A%E7%BA%BF%E8%AF%B7%E6%B3%A8%E6%84%8F/)
+
 后期计划重新细分下相关资料标签
