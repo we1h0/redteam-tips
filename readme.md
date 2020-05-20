@@ -109,5 +109,7 @@
 
 [远控免杀系列文章及配套工具](https://github.com/TideSec/BypassAntiVirus)
 
+[Pentest-and-Development-Tips](https://github.com/3gstudent/Pentest-and-Development-Tips)
+
 后期计划重新细分下相关资料标签
 
