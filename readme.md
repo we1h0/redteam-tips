@@ -103,13 +103,20 @@
 
 [云上攻防：RED TEAMING FOR CLOUD](http://avfisher.win/archives/1175)
 
-[云渗透思路](https://www.moonsec.com/archives/1098)
-
 [2020攻防演练弹药库-您有主机上线请注意](https://blog.riskivy.com/2020%E6%94%BB%E9%98%B2%E6%BC%94%E7%BB%83%E5%BC%B9%E8%8D%AF%E5%BA%93-%E6%82%A8%E6%9C%89%E4%B8%BB%E6%9C%BA%E4%B8%8A%E7%BA%BF%E8%AF%B7%E6%B3%A8%E6%84%8F/)
+
+[2021 攻防演练中需要关注的重点漏洞
+](https://blog.riskivy.com/2021-%e6%94%bb%e9%98%b2%e6%bc%94%e7%bb%83%e4%b8%ad%e9%9c%80%e8%a6%81%e5%85%b3%e6%b3%a8%e7%9a%84%e9%87%8d%e7%82%b9%e6%bc%8f%e6%b4%9e/)
 
 [远控免杀系列文章及配套工具](https://github.com/TideSec/BypassAntiVirus)
 
 [Pentest-and-Development-Tips](https://github.com/3gstudent/Pentest-and-Development-Tips)
+
+[云渗透思路](https://www.moonsec.com/archives/1098)
+
+[云安全知识库](https://cloudsec.huoxian.cn/)
+
+[云安全入门](https://lzcloudsecurity.gitbook.io/yun-an-quan-gong-fang-ru-men/)
 
 后期计划重新细分下相关资料标签
 
